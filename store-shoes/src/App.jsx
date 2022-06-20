@@ -1,4 +1,4 @@
-
+import Advertising from './components/Advertising'
 import Contents from './components/Contents'
 import Endpage from './components/Endpage'
 import NameLogo from './components/NameLogo'
@@ -12,9 +12,9 @@ function App() {
       <header>
         <Promotion />
         <NameLogo />
-        
       </header>
       <main>
+        <Advertising />
         <Contents />
       </main>
       <footer>
