@@ -19,13 +19,16 @@ Pagina principal de uma loja de tênis jordan.
 
 Desktop
 <br>
-![Desktop](/assets/shoes.gif)
+<img  alt="desktop" src="https://raw.githubusercontent.com/roodrigoomendes/Store-Shoes/master/store-shoes/src/img/shoes.gif">
+
+
 <br>
 
 
 Mobile
 <br>
-![Mobile](/assets/shoes_mobile.gif)
+<img  alt="mobile" width="250" src="https://raw.githubusercontent.com/roodrigoomendes/Store-Shoes/master/store-shoes/src/img/shoes_mobile.png">
+
 
 
 ## Autor
