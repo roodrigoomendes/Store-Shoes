@@ -1,5 +1,4 @@
 
-import Banner from './components/banner'
 import Contents from './components/Contents'
 import Endpage from './components/Endpage'
 import NameLogo from './components/NameLogo'
@@ -13,13 +12,13 @@ function App() {
       <header>
         <Promotion />
         <NameLogo />
-        <Banner />
+        
       </header>
       <main>
         <Contents />
       </main>
       <footer>
-<Endpage  />
+        <Endpage />
       </footer>
     </>
 
